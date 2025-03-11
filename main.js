@@ -130,8 +130,8 @@
 ⣿⣿⡟⣿⣿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃ ⢰⡿⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟  ⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏ ⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-Welcome to Script HanakoBotz / Dxyz - Lxzy`))
-    console.log(chalk.blue.bold(`By: Dxyz - Lxyz`))
+Welcome to Script Rudal Perkasa / Finn - Xvynn`))
+    console.log(chalk.blue.bold(`By: Finn - Xvynn`))
 
     console.log(chalk.yellow.bold("📁 Inisialisasi modul..."));
     console.log(chalk.cyan.bold("- API Baileys Telah Dimuat"));

@@ -1,10 +1,10 @@
 const fs = require('node:fs');
 
 const config = {
-    owner: ["6283136099660"],
-    name: "ʜᴀɴᴀᴋᴏ-ᴋᴜɴ-ʙᴏᴛᴢ",
-    ownername: 'ʟᴇᴏᴏxᴢʏ', 
-    ownername2: 'ᴅᴇᴋᴜ',
+    owner: ["6285895789545"],
+    name: "ʀuᴅᴀʟ ᴘᴇʀκᴀsᴀ",
+    ownername: 'ғιɴɴ', 
+    ownername2: 'xvʏɴɴ',
     prefix: [".", "?", "!", "/", "#"], //Tambahin sendiri prefix nya kalo kurang
     wwagc: 'https://chat.whatsapp.com/JyeT1hdCPJeLy95tzx5eyI',
     saluran: '120363279195205552@newsletter', 
@@ -14,11 +14,11 @@ const config = {
     wach: 'https://whatsapp.com/channel/0029VadFS3r89inc7Jjus03W', 
     sessions: "sessions",
     link: {
-     tt: "https://www.tiktok.com/@leooxzy_ganz/"
+     tt: "https://www.tiktok.com/@finn.ofc_"
     },
     sticker: {
-      packname: "〆 ʜᴀɴᴀᴋᴏ-ᴋᴜɴ-ʙᴏᴛᴢ",
-      author: "ʙʏ: ᴅᴇᴋᴜ/ʟᴇᴏᴏxᴢʏ 〆"
+      packname: "〆 ʀuᴅᴀʟ ᴘᴇʀκᴀsᴀ",
+      author: "ʙʏ: ғιɴɴ/xvʏɴɴ 〆"
     },
    messages: {
       wait: "*( Loading )* Tunggu Sebentar...",
